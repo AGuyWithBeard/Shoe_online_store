@@ -50,5 +50,3 @@ password: Test@123
 #### User Page
 username: coba@gmail.com
 password: Test@123
-
-We hope you find this repository useful as you develop your own online store application or a similar project!
